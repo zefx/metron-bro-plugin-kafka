@@ -21,7 +21,7 @@
 #include <librdkafka/rdkafkacpp.h>
 #include <map>
 #include <string>
-#include <Desc.h>
+/*#include <Desc.h>*/
 #include <logging/WriterBackend.h>
 #include <threading/formatters/JSON.h>
 #include <threading/Formatter.h>
